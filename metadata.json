@@ -1,0 +1,5 @@
+{
+  "name": "ViralShorts.ai",
+  "description": "A viral YouTube Shorts script generator utilizing the Second Brain formula and Gemini API.",
+  "requestFramePermissions": []
+}
